@@ -1,1 +1,0 @@
-# hiroshin5727.github.io
