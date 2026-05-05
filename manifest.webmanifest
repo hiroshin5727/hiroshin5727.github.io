@@ -1,0 +1,13 @@
+{
+  "name": "うちの家計管理",
+  "short_name": "家計管理",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0f766e",
+  "lang": "ja",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
